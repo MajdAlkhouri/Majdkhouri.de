@@ -43,6 +43,6 @@
     "ng-packagr": "^13.3.0",
     "ng-particles": "^2.43.1",
     "tsparticles": "^1.43.1",
-    "typescript": "4.1.5"
+    "typescript": "4.6.5"
   }
 }
